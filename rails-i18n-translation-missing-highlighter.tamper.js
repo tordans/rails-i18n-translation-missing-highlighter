@@ -7,6 +7,8 @@
 // @copyright    2012+, Tobias Jordans
 // ==/UserScript==
 
+// Note: Use the "user match" feature to add dev, staging and production to the matching list.
+
 var $translation_missing_elements = $(":contains(translation missing:)");
 var $quickinfo_element            = $('.quickinfo.generic-admin-box.for-platform-admins');
 
