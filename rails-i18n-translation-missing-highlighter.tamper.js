@@ -3,7 +3,7 @@
 // @namespace    http://www.betterplace.org/
 // @version      0.1
 // @description  See https://github.com/tordans/rails-i18n-translation-missing-highlighter
-// @match        http://www.betterplace.dev/*, https://www.bp42.com/*, https://www.betterplace.org/* 
+// @match        http://www.betterplace.org/*
 // @copyright    2012+, Tobias Jordans
 // ==/UserScript==
 
